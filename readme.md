@@ -1,2 +1,4 @@
 Curs de NodeJS
-sTEP IT aCADEMY
+Step it Academy
+
+Happy codding everyone
